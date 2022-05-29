@@ -7,4 +7,4 @@ test
 
 ![alt text](docs/1.png)
 
-![alt text](docs/1_.png)
+![alt text](docs/2.png)
