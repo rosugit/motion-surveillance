@@ -37,7 +37,7 @@ Essentially MD is a frame with the same resolution as camera feed that shows abs
 
 ### Component 3: movement detection time series
 
-This component is simple aggregation of MD matrix. To transform a 2-dimentional movement matrix into a single numerical we take a standard devion of each instance: $\sigma(MD)$.
+This component is simple aggregation of MD matrix. To transform a 2-dimentional movement matrix into a single numerical we take a standard deviation of each instance: $\sigma(MD)$.
 
 To visualize this component a custom function was built to have a chart that live updates. It shows a limit-bound recent history of the time series (horizontal scaling) and dynamic height (vertical scaling). As alternative, `matplotlib.animation.FuncAnimation` was tried, but due to unintuitive syntax and various issues with implementation aw hand-made solution was chosen instead.
 
