@@ -12,3 +12,4 @@ test
 ![alt text](docs/1_30.png)
 ![alt text](docs/1_50.png)
 ![alt text](docs/1_70.png)
+![alt text](docs/1_60.png)
