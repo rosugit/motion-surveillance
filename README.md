@@ -13,3 +13,7 @@ test
 ![alt text](docs/1_50.png)
 ![alt text](docs/1_70.png)
 ![alt text](docs/1_60.png)
+
+
+![alt text](docs/fig_1_1.png)
+![alt text](docs/fig_1_2.png)
